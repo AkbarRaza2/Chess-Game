@@ -1,0 +1,18 @@
+.chess{
+    color: black ;
+    text-align:center;
+}
+.box {
+    width: 100px;
+    height: 100px ;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    text-align : center;
+    font-size: 60px;
+    
+}
+.black{
+    background-color: black;
+    color: white;
+}
